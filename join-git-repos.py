@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # -*- mode: Python; tab-width: 4; indent-tabs-mode: nil; -*-
 """
   Copyright (C) 2016 Marcus Geelnard
